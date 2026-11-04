@@ -6,4 +6,4 @@ Win 2016
 Win 11
 Win 10
 Win 7  
-All above installed in VMware workstation and i check internet connectivity everything is working fine 
+All above installed in VMware workstation and i check internet connectivity everything is working fine
